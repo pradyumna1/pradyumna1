@@ -1,6 +1,6 @@
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Pradyumna Newalkar, an engineering graduate from [Indian Institute of Information Technology, Allahabad](https://www.iiita.ac.in/) and am currently working as a Senior Software Engineer at [simsim](https://simsim.in). 
+I am Pradyumna Newalkar, an engineering graduate from [Indian Institute of Information Technology, Allahabad](https://www.iiita.ac.in/) and am currently working as a Senior Software Engineer at <a alt="simsim" href="https://simsim.in"><span><img height="20px" src="https://simsim.in/static/images/logo_ruby.png"/></span></a>.
 <!--I am a tech enthusiast & an open-source advocate.-->
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
